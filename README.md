@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a note taking app where an authenticated user can create, edit and delete his notes.
 
 ## Available Scripts
 
